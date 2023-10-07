@@ -20,3 +20,15 @@ parameters such as SpO2, BPM, and temperature. The system is designed to continu
 and analysis.
 
 # Screenshots
+![WELCOME PAGE](https://github.com/sakshipawar7/Health-Monitoring-System/blob/main/welcome.JPG?raw=true)
+
+![HELLO PAGE](https://github.com/sakshipawar7/Health-Monitoring-System/blob/main/Hello.JPG?raw=true)
+
+![INFERENCE PAGE](https://github.com/sakshipawar7/Health-Monitoring-System/blob/main/Inference.JPG?raw=true)
+
+![MAIL PAGE](https://github.com/sakshipawar7/Health-Monitoring-System/blob/main/Mail.JPG?raw=true)
+
+![MAIL RECEIVED PAGE](https://github.com/sakshipawar7/Health-Monitoring-System/blob/main/Mail_Received.JPG?raw=true)
+
+
+
