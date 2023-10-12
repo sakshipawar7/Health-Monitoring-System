@@ -30,5 +30,9 @@ and analysis.
 
 ![MAIL RECEIVED PAGE](https://github.com/sakshipawar7/Health-Monitoring-System/blob/main/Mail_Received.JPG?raw=true)
 
+#For Execution
 
+User needs to have Arduino IDE to run all micro-controller codes.
+User needs a ThingsSpeak account.
+User needs to setup all the hardware components like - Arduino board as micro-controller, 2 sensors namely - LM35 for temperature, MAX30100 for heart rate and blood oxygen level.
 
